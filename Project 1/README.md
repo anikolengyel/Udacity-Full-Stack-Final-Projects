@@ -1,0 +1,1 @@
+movie_trailers is a website which shows trailers of a movie collection. If you want to use movie_trailers, download the folder and open the file named fresh_tomatoes.html. Click one of the movie pictures appearing on the website. Any version of python is required to run the program.
